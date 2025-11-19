@@ -1,7 +1,7 @@
 title: Ruecharli
 
 author:
-  name: "Rue"
+  name: Rue
   email: "contact@ruecharli.blog"
 
 description: Long-time worldbuilding enthusiast. My goal is to create resources for aspiring worldbuilders, specifically related to cartography, astronomy, and calendars.
@@ -12,3 +12,5 @@ minima:
   skin: auto
   show_excerpts: true
   hide_site_feed_link: true
+  nav_pages:
+    - index
