@@ -1,7 +1,14 @@
-theme: minima
 title: Ruecharli
+
+author:
+  name: Rue
+  email: contact@ruecharli.blog
+
+description: Long-time worldbuilding enthusiast. My goal is to create resources for aspiring worldbuilders, specifically related to cartography, astrobomy, and calendars.
+
+theme: minima
+
 minima:
-  social_links:
-    - title: contact@ruecharli.blog
-      icon: gmail
-      url: mailto:contact@ruecharli.com
+  skin: auto
+  show_excerpts: true
+  hide_site_feed_link: true
