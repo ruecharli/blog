@@ -1,4 +1,5 @@
 theme: minima
 title: Ruecharli
-
-
+minima:
+  nav_pages:
+    - about
