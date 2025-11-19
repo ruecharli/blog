@@ -10,7 +10,9 @@ minima:
   hide_site_feed_link: true
   nav_pages:
     - index
+    - search
 
 author: Rue Charli (she/her)
 
 email: "contact@ruecharli.blog"
+
