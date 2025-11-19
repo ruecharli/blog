@@ -1,6 +1,8 @@
 ---
 title: "Using Blender to simulate plate tectonics"
-date: 2025-11-18
+date: 2025-11-18 23:40:10 +0800
+excerpt: "testing excerpt 0"
+description: "testing description 0"
 ---
 
 In recent years, many aspiring worldbuilders have attempted to model realistic plate tectonics for their fictional worlds. The majority of in-depth tutorials use GPlates - a wonderfully scientific program, though hardly designed for this purpose. The interface is quite foreign to the average worldbuilder, eating away at time better spent learning more about plate tectonics.
