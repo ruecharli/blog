@@ -11,6 +11,6 @@ minima:
   nav_pages:
     - index
 
-author:
-  name: Rue Charli (she/her)
-  email: "contact@ruecharli.blog"
+author: Rue Charli (she/her)
+
+email: "contact@ruecharli.blog"
