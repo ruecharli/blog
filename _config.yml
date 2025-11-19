@@ -1,4 +1,7 @@
 theme: minima
 title: Ruecharli
 minima:
-  nav_pages:
+  social_links:
+    - title: contact@ruecharli.blog
+      icon: gmail
+      url: mailto:contact@ruecharli.com
