@@ -6,8 +6,6 @@ theme: minima
 
 minima:
   skin: auto
-  show_excerpts: true
-  hide_site_feed_link: true
   nav_pages:
     - index
     - search
@@ -15,4 +13,5 @@ minima:
 author: Rue Charli (she/her)
 
 email: "contact@ruecharli.blog"
+
 
