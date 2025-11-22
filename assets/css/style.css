@@ -1,0 +1,18 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@font-face {
+  font-family: "Roboto Slab";
+  src:
+    local("Roboto Slab"),
+    url("/assets/fonts/RobotoSlab-VariableFont_wght.ttf") format("truetype");
+}
+
+$base-font-family: "Roboto Slab" !default;
+$base-font-size: 16px !default;
+$base-font-weight: 400 !default;
+
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
