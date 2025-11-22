@@ -1,4 +1,11 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 
-$base-font-family: 'RobotoSlab', serif;
+@font-face {
+  font-family: "RobotoSlab";
+  src:
+    local("Roboto Slab"),
+    url("https://ruecharli.blog/assets/RobotoSlab-Regular.ttf") format("truetype");
+}
+
+$base-font-family: "RobotoSlab", serif;
