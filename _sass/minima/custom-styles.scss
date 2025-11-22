@@ -1,11 +1,20 @@
+---
+---
+
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 
 @font-face {
-  font-family: "RobotoSlab";
+  font-family: "Roboto Slab";
   src:
     local("Roboto Slab"),
     url("https://ruecharli.blog/assets/RobotoSlab-Regular.ttf") format("truetype");
 }
 
-$base-font-family: "RobotoSlab", serif;
+$base-font-family: "RobotoSlab" !default;
+$base-font-size: 16px !default;
+$base-font-weight: 400 !default;
+
+@import “minima”;
+
+/* FYI: unrelated to the font-face customisation, make any other css overrides here. */
