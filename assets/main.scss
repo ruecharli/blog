@@ -15,6 +15,6 @@ $base-font-family: "Roboto Slab" !default;
 $base-font-size: 16px !default;
 $base-font-weight: 400 !default;
 
-@import “minima”;
+@import “{{ site.theme }}”;
 
 /* FYI: unrelated to the font-face customisation, make any other css overrides here. */
